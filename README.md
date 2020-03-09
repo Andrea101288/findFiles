@@ -9,5 +9,3 @@ Step by step
 4) Insert 0 if you want only the files in the destination directory you chose or Insert 1 if you want all the file in subdirectories as well
 
 If there is no problems or error you'll see the sentence ( ex: Done. All .json found files copied from "YourSourceDirectory into YourDestinatioinDirectory")
-
-If you have any problem or error occurred contact with EU-DET member Andrea Mancini.
